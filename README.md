@@ -1,2 +1,5 @@
-# stock
-For this i have used and practiced the code from a YouTube Video to understand how it works and how its been deployed.
+# streamlit-10
+
+Launch the web app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/streamlit-10/main/sp500-app.py)
