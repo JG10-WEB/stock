@@ -1,5 +1,5 @@
 # streamlit-10
 
-Launch the web app:
+Link for the web app: https://share.streamlit.io/jg10-web/stock/main/sp500-app.py
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/streamlit-10/main/sp500-app.py)
+
